@@ -28,7 +28,7 @@ public class Itqantask {
 	  WebElement Lastname = driver.findElement(By.name("lastname"));
 	  Lastname.sendKeys("othman");
 	  WebElement emailaddress  = driver.findElement(By.id("email_address"));
-	  emailaddress.sendKeys("rehabothmanrabee+8@outlook.com");
+	  emailaddress.sendKeys("rehabothmanrabee+11@outlook.com");
 		WebElement password = driver.findElement(By.id("password"));
 		password.sendKeys("!QAZ2wsx");
 		 WebElement confirmpassword = driver.findElement(By.id("confirmation"));
